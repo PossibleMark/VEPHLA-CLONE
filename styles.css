@@ -1,0 +1,502 @@
+ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+    overflow:hidden;   
+   }
+   
+   li a{color:black;
+        font-size: 18px;
+        font-family:verdana;
+       text-decoration: none;
+       padding: 20px;
+   
+       
+   }
+   
+  li {float:right}
+   
+   li a:hover{
+     color:blue;
+     text-decoration: underline;
+   }
+
+   div.nav{
+    position: absolute;
+    top: 30px;
+    left:400px;
+    
+   }
+
+   div.button1{
+    position:absolute;
+    top: 20px;
+    left: 1100px;
+   
+   }
+
+   #header{
+    width:100%;
+    height:80px;
+    background-color: white;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index: 1000;
+   }
+
+   #button{
+    width:150px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color:#7971ea;
+    font-size: 17px;
+    color:white;
+}
+
+div.logo{
+    position:absolute;
+    top: 10px;
+    left: 45px;
+}
+
+#img{
+    
+    width:100%;
+    height:800px;
+   
+   
+}
+
+
+
+div.text1{
+    position:absolute;
+    top: 200px;
+    left:100px;
+}
+
+div.form1{
+    position:absolute;
+    top: 200px;
+    left:800px;
+    width: 470px;
+    height: 390px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;;
+    align-items: center;
+}
+
+div.input1{
+    position: absolute;
+   top:50px;
+   left: 100px;
+}
+   
+#input{
+    width: 300px;
+    height:40px;
+    font-size: 17px;
+}
+
+#up{
+    font-size: 25px;
+}
+
+#welcome{
+    font-size: 60px;
+    color:#f8f9fa;
+}
+
+#unlock{
+    font-size: 21px;
+     color:rgba(255, 255, 255, 0.5);
+     
+}
+
+
+div.sec2{
+    position: absolute;
+    width:99%;
+    top: 800px;
+    height: 400px;
+    background-color: #7971ea;
+    
+}
+
+#our{
+    position: absolute;
+    top: 50px;
+    left:550px;
+    color:#f8f9fa;
+    font-size: 50px;
+}
+
+div.sec3{
+    position: relative;
+    width:99%;
+    top: 388px;
+    height: 800px;
+    background-color:white;
+    
+}
+
+#img2{
+   
+    width:320px;
+    height:270px;
+   
+}
+
+
+div.fullstack{
+    position: absolute;
+    top:-120px;
+    left: 120px;
+
+}
+
+div.data{
+    position: absolute;
+    top:-120px;
+    left: 500px;
+  
+}
+
+div.ui{
+    position: absolute;
+    top:-120px;
+    left: 880px; 
+   
+}
+
+div.ken{
+    border: 4px solid white;
+    
+}
+
+#tx{
+    color:gray;
+    font-size: 30px;
+}
+
+#tx1{
+   font-size: 20px;
+   color:gray;
+}
+
+#link{
+    font-size: 20px;
+}
+
+div.embark{
+    position:absolute;
+    top: 600px;
+    left: 400px;
+}
+
+#meas{
+    font-size: 60px;
+    text-align: center;
+    font-weight:bold;
+}
+
+#em{
+    font-size:20px;
+    color:gray;
+}
+
+div.lady{
+    position: absolute;
+    top:1200px;
+    left:80px;
+}
+
+div.lady1{
+    position: absolute;
+    top:50px;
+    left:800px;
+    width:400px;
+}
+
+div.man{
+    position: absolute;
+    top:1800px;
+    left:600px;
+}
+
+div.man1{
+    position:absolute;
+    top:1900px;
+    left:200px;
+    
+}
+
+div.on{
+    position: absolute;
+    top:2500px;
+    left: 100px;
+}
+
+div.on1{
+    position: absolute;
+    top:50px;
+    left:800px;
+    width:400px;
+}
+
+div.student{
+    position: absolute;
+    top:3100px;
+    left:400px;
+    text-align: center;
+}
+
+#im{
+    width:200px;
+    border-radius:70px;
+}
+
+div.nathe{
+    position: absolute;
+    top:3500px;
+    left:200px;
+}
+
+div.Arike{
+    position: absolute;
+    top:3500px;
+    left:570px;
+}
+
+div.uche{
+    position: absolute;
+    top:3500px;
+    left:950px;
+}
+
+#pic{
+    width:210%;
+    
+    
+}
+
+div.power{
+    position: absolute;
+    top:4200px;
+    
+  
+}
+
+div.overlay{
+    position: absolute;
+    background-color: rgba(5, 5, 5, 0.5);;
+    width:210%;
+     inset: 0;
+     align-content: center;
+     
+}
+
+class.odife{
+    position: absolute;
+    top: 300px;
+
+}
+
+#tolu{
+    width:150px;
+    border-radius: 80px;
+}
+
+div.tola{
+    position: absolute;
+    top: 100px;
+    left:600px;
+}
+
+div.overlaytext{
+    position: absolute;
+    top:30%;
+    left:22%;
+    color:white;
+    text-align: center;
+    font-size: 23px;
+}
+
+div.rasta{
+    position: relative;
+    top:5100px;
+    width:101%;
+    height:1200px;
+    left:5px;
+}
+
+div.choose{
+    position: absolute;
+    top: 50px;
+    left:480px;
+}
+
+div.point{
+    position: absolute;
+    top:400px;
+    left:600px;
+}
+
+div.banner{
+    position: absolute;
+    top:300px;
+    left: 200px;
+}
+
+div.set{
+    position: absolute;
+    top:300px;
+    left:500px;
+    width: 700px;
+    
+}
+
+div.message{
+    position: absolute;
+    top:80px;
+    left:500px;
+}
+
+div.kargbo{
+    position: relative;
+    width:101%;
+    height: 900px;
+    background-color: rgb(243, 238, 238);
+    top:5100px;
+    left: 3px;
+}
+ 
+div.vephla{
+    position: relative;
+    background-color: white;
+    width:101%;
+    height:1200px;
+    top:5100px;
+    left: 3px;
+}
+
+#vep{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+div.talk{
+    position: absolute;
+    top:100px;
+    left:590px;
+}
+ 
+div.centre{
+    position: absolute;
+    top:100px;
+    left:900px;
+}
+
+#mark{
+    font-size: 35px;
+    
+}
+
+#pascal{
+    font-size: 20px;
+    color:gray;
+}
+
+#nat{
+    font-size:23px;
+    text-align: center;
+}
+
+#pro{
+    font-size:18px;
+    text-align:center;
+    color:gray;
+}
+
+#abso{
+    font-size: 18px;
+    text-align: center;
+    color:darkgray;
+    font-family:sans-serif;
+}
+
+#mesup{
+    font-size: 40px;
+    font-weight:bold;
+}
+
+#gotque{
+    color:gray;
+}
+
+
+#text{
+    width: 250px;
+    height: 35px;
+    font-size:15px;
+}
+
+#sub{
+    width:510px;
+    height:35px;
+    font-size: 15px;
+}
+
+#textarea{
+    width:510px;
+    height:  300px;
+}
+
+#abo{
+    font-size:18px;
+    font-weight: bold;
+}
+
+#best{
+    font-size: 19px;
+    color:gray;
+}
+
+#enter{
+    font-size: 17px;
+    color:gray;
+}
+
+#login{
+    height: 30px;
+    width:230px;
+    font-size: 18px;
+}
+
+#li{
+    height: 40px;
+    font-size: 13px;
+    color:white;
+    background-color:#7971ea;
+    width:100px;
+    border: 2px solid #7971ea;
+}
+
+#tw{
+    font-size: 20px;
+    text-decoration: none;
+    color: #7971ea;
+}
+
+div.copyright{
+    position:absolote;
+    width: 400px;
+    top:250px;
+    border: 2px solid black;
+   
+    
+}
